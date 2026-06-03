@@ -1,7 +1,7 @@
 import requests, json, pyperclip
 from pathlib import Path
 
-APPID = 'cb04da590a817fd94c29ab3b3f433ce9'
+APPID = ''
 
 location = 'San Francisco'
 
