@@ -12,8 +12,7 @@ capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix',
 'Augusta', 'Maryland': 'Annapolis', 'Massachusetts': 'Boston', 'Michigan': 
 'Lansing', 'Minnesota': 'Saint Paul', 'Mississippi': 'Jackson', 'Missouri': 
 'Jefferson City', 'Montana': 'Helena', 'Nebraska': 'Lincoln', 'Nevada': 
-'Carson City', 'New Hampshire': 'Concord', 'New Jersey': 'Trenton', 'New 
-Mexico': 'Santa Fe', 'New York': 'Albany', 
+'Carson City', 'New Hampshire': 'Concord', 'New Jersey': 'Trenton', 'New Mexico': 'Santa Fe', 'New York': 'Albany', 
 'North Carolina': 'Raleigh', 'North Dakota': 'Bismarck', 'Ohio': 'Columbus', 'Oklahoma': 'Oklahoma City', 
 'Oregon': 'Salem', 'Pennsylvania': 'Harrisburg', 'Rhode Island': 'Providence', 
 'South Carolina': 'Columbia', 'South Dakota': 'Pierre', 'Tennessee': 
@@ -21,11 +20,5 @@ Mexico': 'Santa Fe', 'New York': 'Albany',
 'Montpelier', 'Virginia': 'Richmond', 'Washington': 'Olympia', 'West  Virginia': 'Charleston', 'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'} 
   
 # Generate 35 uiz files. 
-for uizNum in range(35):  
-     # TODO: Create the uiz and answer key files. 
-  
-       # TODO: Write out the header for the uiz. 
-  
-       # TODO: Shuffle the order of the states. 
-  
-       # TODO: Loop through all 50 states, making a uestion for each.
+for uizNum in range(35):
+    print()
