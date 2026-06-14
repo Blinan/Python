@@ -1,3 +1,4 @@
+# A programer control your cursor to draw a smile emoji
 import pyautogui, time, math
 
 

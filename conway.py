@@ -59,4 +59,4 @@ while True:
             else:
                 next_cells[x][y] = " "
     current_cells = copy.deepcopy(next_cells)
-    time.sleep(1)
+    time.sleep(0.001)
